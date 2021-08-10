@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,kBAAmB,CACnB,4BAA6B,CAC7B,gBAAiB,CACjB,cACF","file":"main.97b11d51.chunk.css","sourcesContent":[".App {\n  display: flex;\n  align-items: center;\n  justify-content: space-around;\n  min-height: 100vh;\n  font-size: 50px;\n}"]}
